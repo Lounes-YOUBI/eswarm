@@ -1,0 +1,103 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"deps/libmotioncapture/deps/vicon-datastream-sdk/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/vicon-datastream-sdk",
+			"paths" : 
+			[
+				"deps/libmotioncapture/deps/vicon-datastream-sdk/Vicon/CrossMarket/DataStream/ViconDataStreamSDK_CPP/DataStreamClient.h",
+				"deps/libmotioncapture/deps/vicon-datastream-sdk/Vicon/CrossMarket/DataStream/ViconDataStreamSDK_CPP/IDataStreamClientBase.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"deps/libmotioncapture/deps/vicon-datastream-sdk/libViconDataStreamSDK_CPP.a"
+			],
+			"targetId" : "ViconDataStreamSDK_CPP::@276107015065727bad87",
+			"targetIndex" : 28,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/vicon-datastream-sdk",
+			"exportName" : "vicon-datastream-sdkTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ViconDataStreamSDK_CPP::@276107015065727bad87",
+					"index" : 28
+				}
+			],
+			"paths" : 
+			[
+				"deps/libmotioncapture/deps/vicon-datastream-sdk/CMakeFiles/Export/lib/cmake/vicon-datastream-sdk/vicon-datastream-sdkTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/vicon-datastream-sdk",
+			"paths" : 
+			[
+				"/home/insa/eswarm/build/motion_capture_tracking/deps/libmotioncapture/deps/vicon-datastream-sdk/vicon-datastream-sdkConfig.cmake",
+				"/home/insa/eswarm/build/motion_capture_tracking/deps/libmotioncapture/deps/vicon-datastream-sdk/vicon-datastream-sdkConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "deps/libmotioncapture/deps/vicon-datastream-sdk",
+		"source" : "deps/libmotioncapture/deps/vicon-datastream-sdk"
+	}
+}

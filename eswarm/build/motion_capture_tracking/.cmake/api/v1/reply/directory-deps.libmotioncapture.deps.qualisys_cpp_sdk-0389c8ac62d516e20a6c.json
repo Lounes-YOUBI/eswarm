@@ -1,0 +1,101 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"deps/libmotioncapture/deps/qualisys_cpp_sdk/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/qualisys_cpp_sdk",
+			"exportName" : "qualisys_cpp_sdkTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "qualisys_cpp_sdk::@5a99e0bc11ee08158fb6",
+					"index" : 37
+				}
+			],
+			"paths" : 
+			[
+				"deps/libmotioncapture/deps/qualisys_cpp_sdk/CMakeFiles/Export/lib/qualisys_cpp_sdk/qualisys_cpp_sdkTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/qualisys_cpp_sdk",
+			"paths" : 
+			[
+				"/home/insa/eswarm/build/motion_capture_tracking/deps/libmotioncapture/deps/qualisys_cpp_sdk/qualisys_cpp_sdkConfig.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"deps/libmotioncapture/deps/qualisys_cpp_sdk/libqualisys_cpp_sdk.a"
+			],
+			"targetId" : "qualisys_cpp_sdk::@5a99e0bc11ee08158fb6",
+			"targetIndex" : 37,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"type" : "code"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "deps/libmotioncapture/deps/qualisys_cpp_sdk",
+		"source" : "deps/libmotioncapture/deps/qualisys_cpp_sdk"
+	}
+}

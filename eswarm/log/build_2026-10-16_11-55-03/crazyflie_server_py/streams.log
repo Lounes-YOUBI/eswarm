@@ -1,0 +1,21 @@
+[1.267s] Invoking command in '/home/insa/eswarm/src/crazyswarm2/crazyflie_server_py': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/eswarm/install/crazyflie_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/build/crazyflie_server_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/insa/eswarm/install/crazyflie_server_py/lib/python3.10/site-packages:/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_server_py build --build-base /home/insa/eswarm/build/crazyflie_server_py/build install --record /home/insa/eswarm/build/crazyflie_server_py/install.log --install-scripts $base/lib/crazyflie_server_py --single-version-externally-managed install_data
+[1.537s] running egg_info
+[1.538s] writing ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/PKG-INFO
+[1.538s] writing dependency_links to ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/dependency_links.txt
+[1.538s] writing entry points to ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/entry_points.txt
+[1.538s] writing requirements to ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/requires.txt
+[1.539s] writing top-level names to ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/top_level.txt
+[1.540s] reading manifest file '../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/SOURCES.txt'
+[1.542s] writing manifest file '../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/SOURCES.txt'
+[1.542s] running build
+[1.542s] running build_py
+[1.543s] running install
+[1.543s] running install_lib
+[1.544s] running install_data
+[1.544s] running install_egg_info
+[1.546s] removing '/home/insa/eswarm/install/crazyflie_server_py/lib/python3.10/site-packages/crazyflie_server_py-1.0.7-py3.10.egg-info' (and everything under it)
+[1.547s] Copying ../../../build/crazyflie_server_py/crazyflie_server_py.egg-info to /home/insa/eswarm/install/crazyflie_server_py/lib/python3.10/site-packages/crazyflie_server_py-1.0.7-py3.10.egg-info
+[1.547s] running install_scripts
+[1.572s] Installing crazyflie_server script to /home/insa/eswarm/install/crazyflie_server_py/lib/crazyflie_server_py
+[1.573s] writing list of installed files to '/home/insa/eswarm/build/crazyflie_server_py/install.log'
+[1.594s] Invoked command in '/home/insa/eswarm/src/crazyswarm2/crazyflie_server_py' returned '0': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/eswarm/install/crazyflie_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/build/crazyflie_server_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/insa/eswarm/install/crazyflie_server_py/lib/python3.10/site-packages:/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_server_py build --build-base /home/insa/eswarm/build/crazyflie_server_py/build install --record /home/insa/eswarm/build/crazyflie_server_py/install.log --install-scripts $base/lib/crazyflie_server_py --single-version-externally-managed install_data

@@ -1,0 +1,114 @@
+[0.021s] Invoking command in '/home/insa/eswarm/build/crazyflie_examples': AMENT_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_py:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/crazyflie_py/lib/python3.10/site-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/insa/eswarm/build/crazyflie_examples -- -j12 -l12
+[0.116s] Built target ament_cmake_python_copy_crazyflie_examples_setup
+[0.119s] Built target ament_cmake_python_copy_crazyflie_examples
+[0.489s] running install_scripts
+[0.492s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.493s]   warnings.warn(
+[0.527s] running egg_info
+[0.528s] writing crazyflie_examples.egg-info/PKG-INFO
+[0.528s] writing dependency_links to crazyflie_examples.egg-info/dependency_links.txt
+[0.528s] writing entry points to crazyflie_examples.egg-info/entry_points.txt
+[0.529s] writing top-level names to crazyflie_examples.egg-info/top_level.txt
+[0.530s] reading manifest file 'crazyflie_examples.egg-info/SOURCES.txt'
+[0.531s] writing manifest file 'crazyflie_examples.egg-info/SOURCES.txt'
+[0.533s] Installing arming script to scripts
+[0.533s] Installing cmd_full_state script to scripts
+[0.533s] Installing figure8 script to scripts
+[0.534s] Installing goto_unicast script to scripts
+[0.534s] Installing group_mask script to scripts
+[0.534s] Installing hello_world script to scripts
+[0.534s] Installing infinite_flight script to scripts
+[0.534s] Installing multi_trajectory script to scripts
+[0.534s] Installing nice_hover script to scripts
+[0.534s] Installing set_param script to scripts
+[0.535s] Installing simple_mapper_multiranger script to scripts
+[0.535s] Installing swap script to scripts
+[0.535s] Installing vel_mux script to scripts
+[0.575s] Built target ament_cmake_python_build_crazyflie_examples_scripts
+[0.614s] running egg_info
+[0.614s] writing crazyflie_examples.egg-info/PKG-INFO
+[0.615s] writing dependency_links to crazyflie_examples.egg-info/dependency_links.txt
+[0.615s] writing entry points to crazyflie_examples.egg-info/entry_points.txt
+[0.615s] writing top-level names to crazyflie_examples.egg-info/top_level.txt
+[0.617s] reading manifest file 'crazyflie_examples.egg-info/SOURCES.txt'
+[0.618s] writing manifest file 'crazyflie_examples.egg-info/SOURCES.txt'
+[0.648s] Built target ament_cmake_python_build_crazyflie_examples_egg
+[0.662s] Invoked command in '/home/insa/eswarm/build/crazyflie_examples' returned '0': AMENT_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_py:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/crazyflie_py/lib/python3.10/site-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/insa/eswarm/build/crazyflie_examples -- -j12 -l12
+[0.664s] Invoking command in '/home/insa/eswarm/build/crazyflie_examples': AMENT_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_py:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/crazyflie_py/lib/python3.10/site-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/insa/eswarm/build/crazyflie_examples
+[0.675s] -- Install configuration: ""
+[0.675s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/pythonpath.sh
+[0.675s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/pythonpath.dsv
+[0.675s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info
+[0.675s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info/PKG-INFO
+[0.675s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info/top_level.txt
+[0.675s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info/dependency_links.txt
+[0.676s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info/entry_points.txt
+[0.676s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples-1.0.7-py3.10.egg-info/SOURCES.txt
+[0.676s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples/
+[0.676s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//swap
+[0.676s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//cmd_full_state
+[0.676s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//infinite_flight
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//figure8
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//nice_hover
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//goto_unicast
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//arming
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//hello_world
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//group_mask
+[0.677s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//multi_trajectory
+[0.678s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//simple_mapper_multiranger
+[0.678s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//vel_mux
+[0.678s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/lib/crazyflie_examples//set_param
+[0.678s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples
+[0.678s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/figure8.py
+[0.678s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/hello_world.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/arming.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/set_param.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/vel_mux.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/goto_unicast.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/__init__.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/cmd_full_state.py
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data/figure8.csv
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data/multi_trajectory
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data/multi_trajectory/traj1.csv
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data/multi_trajectory/traj0.csv
+[0.679s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/multi_trajectory.py
+[0.680s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/simple_mapper_multiranger.py
+[0.680s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/nice_hover.py
+[0.680s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/group_mask.py
+[0.680s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/swap.py
+[0.680s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/infinite_flight.py
+[0.728s] Listing '/home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples'...
+[0.728s] Listing '/home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data'...
+[0.728s] Listing '/home/insa/eswarm/install/crazyflie_examples/local/lib/python3.10/dist-packages/crazyflie_examples/data/multi_trajectory'...
+[0.732s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//config
+[0.732s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//config/slam_params.yaml
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//config/nav2_view.rviz
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//config/nav2_params.yaml
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//data
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//data/map.data
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//data/map.pgm
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//data/map.posegraph
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//data/map.yaml
+[0.733s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch/launch.py
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch/multiranger_mapping_launch.py
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch/keyboard_velmux_launch.py
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch/multiranger_nav2_launch.py
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples//launch/multiranger_simple_mapper_launch.py
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/ament_index/resource_index/package_run_dependencies/crazyflie_examples
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/ament_index/resource_index/parent_prefix_path/crazyflie_examples
+[0.734s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/ament_prefix_path.sh
+[0.735s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/ament_prefix_path.dsv
+[0.735s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/path.sh
+[0.736s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/environment/path.dsv
+[0.736s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/local_setup.bash
+[0.736s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/local_setup.sh
+[0.737s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/local_setup.zsh
+[0.738s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/local_setup.dsv
+[0.740s] -- Installing: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/package.dsv
+[0.741s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/ament_index/resource_index/packages/crazyflie_examples
+[0.741s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/cmake/crazyflie_examplesConfig.cmake
+[0.742s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/cmake/crazyflie_examplesConfig-version.cmake
+[0.742s] -- Up-to-date: /home/insa/eswarm/install/crazyflie_examples/share/crazyflie_examples/package.xml
+[0.742s] Invoked command in '/home/insa/eswarm/build/crazyflie_examples' returned '0': AMENT_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_py:/home/insa/eswarm/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/crazyflie_py/lib/python3.10/site-packages:/home/insa/eswarm/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/insa/eswarm/build/crazyflie_examples

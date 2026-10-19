@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-ed4a7aaf3136749c7b08.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "motion_capture_tracking_interfaces__py",
+					"jsonFile" : "directory-motion_capture_tracking_interfaces__py-1e12ff2c8ca2e43f9706.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/insa/eswarm/build/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "motion_capture_tracking_interfaces__rs",
+					"jsonFile" : "directory-motion_capture_tracking_interfaces__rs-8f6a491b7f5bbdb28973.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/insa/eswarm/build/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "motion_capture_tracking_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_motion_capture_tracking_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_motion_capture_tracking_interfaces_egg-fbe8a257c88f4816fd03.json",
+					"name" : "ament_cmake_python_build_motion_capture_tracking_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_motion_capture_tracking_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_motion_capture_tracking_interfaces-48b24aa231532ea7f229.json",
+					"name" : "ament_cmake_python_copy_motion_capture_tracking_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces-ba768b9027cf222fb4be.json",
+					"name" : "motion_capture_tracking_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__cpp-d4e223c1e7b4cd56dc4b.json",
+					"name" : "motion_capture_tracking_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "motion_capture_tracking_interfaces__py::@333237b8368675d18573",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__py-39d4eb1f5103c9a0b25d.json",
+					"name" : "motion_capture_tracking_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_generator_c-241e5c2c56f06afdeec7.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_generator_py-bc693d6c7211a7821f1e.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_c-c1c600312641982a275c.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_c__pyext-0efee1f98ecc035b5e25.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_cpp-50a6f12481d013f3c6a6.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c-608e45fa5c8874cb8c5f.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c__pyext-61351aad1872ae8da49a.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp-a85d9922af6d8d22568d.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c-7a48784a1899457f3283.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c__pyext-751a52a54fa7e54a5574.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp-4d2d615fa1a5399972fa.json",
+					"name" : "motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "motion_capture_tracking_interfaces__rs::@d2a688da1c2b6f9a2681",
+					"jsonFile" : "target-motion_capture_tracking_interfaces__rs-bf52a18c37ce5122064e.json",
+					"name" : "motion_capture_tracking_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_capture_tracking_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_capture_tracking_interfaces_uninstall-0c7e900d5d04fd0a046f.json",
+					"name" : "motion_capture_tracking_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-dc8d219f9d04e6a5c1f5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/insa/eswarm/build/motion_capture_tracking_interfaces",
+		"source" : "/home/insa/eswarm/src/motion_capture_tracking/motion_capture_tracking_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/scripts_cf/scripts_cf.egg-info
+writing ../../build/scripts_cf/scripts_cf.egg-info/PKG-INFO
+writing dependency_links to ../../build/scripts_cf/scripts_cf.egg-info/dependency_links.txt
+writing entry points to ../../build/scripts_cf/scripts_cf.egg-info/entry_points.txt
+writing requirements to ../../build/scripts_cf/scripts_cf.egg-info/requires.txt
+writing top-level names to ../../build/scripts_cf/scripts_cf.egg-info/top_level.txt
+writing manifest file '../../build/scripts_cf/scripts_cf.egg-info/SOURCES.txt'
+reading manifest file '../../build/scripts_cf/scripts_cf.egg-info/SOURCES.txt'
+writing manifest file '../../build/scripts_cf/scripts_cf.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/insa/eswarm/build/scripts_cf/build
+creating /home/insa/eswarm/build/scripts_cf/build/lib
+creating /home/insa/eswarm/build/scripts_cf/build/lib/scripts_cf
+copying scripts_cf/hover_30.py -> /home/insa/eswarm/build/scripts_cf/build/lib/scripts_cf
+copying scripts_cf/__init__.py -> /home/insa/eswarm/build/scripts_cf/build/lib/scripts_cf
+running install
+running install_lib
+creating /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf
+copying /home/insa/eswarm/build/scripts_cf/build/lib/scripts_cf/hover_30.py -> /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf
+copying /home/insa/eswarm/build/scripts_cf/build/lib/scripts_cf/__init__.py -> /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf
+byte-compiling /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf/hover_30.py to hover_30.cpython-310.pyc
+byte-compiling /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/insa/eswarm/install/scripts_cf/share/ament_index
+creating /home/insa/eswarm/install/scripts_cf/share/ament_index/resource_index
+creating /home/insa/eswarm/install/scripts_cf/share/ament_index/resource_index/packages
+copying resource/scripts_cf -> /home/insa/eswarm/install/scripts_cf/share/ament_index/resource_index/packages
+copying package.xml -> /home/insa/eswarm/install/scripts_cf/share/scripts_cf
+running install_egg_info
+Copying ../../build/scripts_cf/scripts_cf.egg-info to /home/insa/eswarm/install/scripts_cf/lib/python3.10/site-packages/scripts_cf-0.0.0-py3.10.egg-info
+running install_scripts
+Installing hover_30 script to /home/insa/eswarm/install/scripts_cf/lib/scripts_cf
+writing list of installed files to '/home/insa/eswarm/build/scripts_cf/install.log'

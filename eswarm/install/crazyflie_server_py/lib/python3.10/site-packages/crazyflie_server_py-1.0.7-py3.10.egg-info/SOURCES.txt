@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/PKG-INFO
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/SOURCES.txt
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/dependency_links.txt
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/entry_points.txt
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/requires.txt
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/top_level.txt
+../../../build/crazyflie_server_py/crazyflie_server_py.egg-info/zip-safe
+crazyflie_server_py/__init__.py
+crazyflie_server_py/crazyflie_server.py
+resource/crazyflie_server_py
+test/test_flake8.py
+test/test_pep257.py

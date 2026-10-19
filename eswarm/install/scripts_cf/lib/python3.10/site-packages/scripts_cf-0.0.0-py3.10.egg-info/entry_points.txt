@@ -1,0 +1,3 @@
+[console_scripts]
+hover_30 = scripts_cf.hover_30:main
+

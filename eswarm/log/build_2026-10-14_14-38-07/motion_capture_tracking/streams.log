@@ -1,0 +1,122 @@
+[0.023s] Invoking command in '/home/insa/eswarm/build/motion_capture_tracking': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/insa/eswarm/build/motion_capture_tracking -- -j12 -l12
+[0.073s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.314s] -- Found rclcpp: 16.0.21 (/opt/ros/humble/share/rclcpp/cmake)
+[0.360s] -- Found rosidl_generator_c: 3.1.9 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.364s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.373s] -- Found rosidl_generator_cpp: 3.1.9 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.393s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.413s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.485s] -- Found rmw_implementation_cmake: 6.1.4 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.490s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.653s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.748s] -- Found tf2_ros: 0.25.24 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.902s] -- Found sensor_msgs: 4.9.2 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.929s] -- Found motion_capture_tracking_interfaces: 1.0.9 (/home/insa/eswarm/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake)
+[0.955s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.979s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[1.002s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.65.0") found components: system filesystem date_time iostreams serialization 
+[1.005s] -- looking for PCL_COMMON
+[1.006s] -- Found PCL: pcl_common;Boost::system;Boost::filesystem;Boost::date_time;Boost::iostreams;Boost::serialization  
+[1.009s] [33mCMake Warning (dev) at deps/librigidbodytracker/CMakeLists.txt:7 (find_package):
+[1.009s]   Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+[1.009s]   Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+[1.009s]   command to set the policy and suppress this warning.
+[1.009s] 
+[1.009s]   CMake variable PCL_ROOT is set to:
+[1.009s] 
+[1.009s]     /usr
+[1.010s] 
+[1.010s]   For compatibility, CMake is ignoring the variable.
+[1.010s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.010s] [0m
+[1.049s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[1.374s] -- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+[1.716s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.726s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[1.727s] [0m** WARNING ** io features related to pcap will be disabled[0m
+[2.084s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[2.102s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[2.118s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[2.477s] -- Found Qhull version 8.0.2
+[2.781s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[3.041s] -- looking for PCL_KDTREE
+[3.042s] -- looking for PCL_OCTREE
+[3.042s] -- looking for PCL_SEARCH
+[3.043s] -- looking for PCL_SAMPLE_CONSENSUS
+[3.044s] -- looking for PCL_FILTERS
+[3.045s] -- looking for PCL_2D
+[3.045s] -- looking for PCL_GEOMETRY
+[3.046s] -- looking for PCL_IO
+[3.047s] -- looking for PCL_FEATURES
+[3.048s] -- looking for PCL_ML
+[3.048s] -- looking for PCL_SEGMENTATION
+[3.049s] -- looking for PCL_VISUALIZATION
+[3.050s] -- looking for PCL_SURFACE
+[3.051s] -- looking for PCL_REGISTRATION
+[3.052s] -- looking for PCL_KEYPOINTS
+[3.053s] -- looking for PCL_TRACKING
+[3.054s] -- looking for PCL_RECOGNITION
+[3.055s] -- looking for PCL_STEREO
+[3.055s] -- looking for PCL_APPS
+[3.057s] -- looking for PCL_IN_HAND_SCANNER
+[3.058s] -- looking for PCL_MODELER
+[3.058s] -- looking for PCL_POINT_CLOUD_EDITOR
+[3.059s] -- looking for PCL_OUTOFCORE
+[3.060s] -- looking for PCL_PEOPLE
+[3.062s] -- Found PCL: pcl_common;pcl_kdtree;pcl_octree;pcl_search;pcl_sample_consensus;pcl_filters;pcl_io;pcl_features;pcl_ml;pcl_segmentation;pcl_visualization;pcl_surface;pcl_registration;pcl_keypoints;pcl_tracking;pcl_recognition;pcl_stereo;pcl_apps;pcl_outofcore;pcl_people;Boost::system;Boost::filesystem;Boost::date_time;Boost::iostreams;Boost::serialization;/usr/lib/libOpenNI.so;libusb::libusb;/usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb;VTK::ChartsCore;VTK::CommonColor;VTK::CommonComputationalGeometry;VTK::CommonCore;VTK::CommonDataModel;VTK::CommonExecutionModel;VTK::CommonMath;VTK::CommonMisc;VTK::CommonTransforms;VTK::FiltersCore;VTK::FiltersExtraction;VTK::FiltersGeneral;VTK::FiltersGeometry;VTK::FiltersModeling;VTK::FiltersSources;VTK::ImagingCore;VTK::ImagingSources;VTK::InteractionImage;VTK::InteractionStyle;VTK::InteractionWidgets;VTK::IOCore;VTK::IOGeometry;VTK::IOImage;VTK::IOLegacy;VTK::IOPLY;VTK::RenderingAnnotation;VTK::RenderingCore;VTK::RenderingContext2D;VTK::RenderingLOD;VTK::RenderingFreeType;VTK::ViewsCore;VTK::ViewsContext2D;VTK::RenderingOpenGL2;VTK::GUISupportQt;FLANN::FLANN;QHULL::QHULL  
+[3.095s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.58") found components: program_options 
+[3.113s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0")  
+[3.116s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.117s] [0mincluding vicon[0m
+[3.143s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.5") found components: thread chrono 
+[3.149s] [0mincluding optitrack[0m
+[3.149s] [0mincluding qualisys[0m
+[3.156s] [0mincluding vrpn[0m
+[7.254s] -- NOTE: You have VRPN_USE_LOCAL_HIDAPI enabled, but VRPN_USE_HID disabled: HIDAPI will only be built if you enable HID support for VRPN
+[7.648s] [0mincluding fzmotion[0m
+[7.958s] -- Configuring done
+[8.610s] -- Generating done
+[8.722s] -- Build files have been written to: /home/insa/eswarm/build/motion_capture_tracking
+[8.894s] [35m[1mConsolidate compiler generated dependencies of target librigidbodytracker[0m
+[8.897s] [35m[1mConsolidate compiler generated dependencies of target quat[0m
+[8.900s] [35m[1mConsolidate compiler generated dependencies of target qualisys_cpp_sdk[0m
+[8.952s] [35m[1mConsolidate compiler generated dependencies of target ViconDataStreamSDK_CPP[0m
+[8.957s] [  8%] Built target quat
+[8.961s] [ 16%] Built target qualisys_cpp_sdk
+[9.038s] [35m[1mConsolidate compiler generated dependencies of target vrpn[0m
+[9.138s] [ 19%] Built target librigidbodytracker
+[9.156s] [ 66%] Built target vrpn
+[9.231s] [ 83%] Built target ViconDataStreamSDK_CPP
+[9.283s] [35m[1mConsolidate compiler generated dependencies of target libmotioncapture[0m
+[9.374s] [ 96%] Built target libmotioncapture
+[9.443s] [ 98%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_node.dir/src/motion_capture_tracking_node.cpp.o[0m
+[25.925s] [100%] [32m[1mLinking CXX executable motion_capture_tracking_node[0m
+[28.959s] [100%] Built target motion_capture_tracking_node
+[28.995s] Invoked command in '/home/insa/eswarm/build/motion_capture_tracking' returned '0': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/insa/eswarm/build/motion_capture_tracking -- -j12 -l12
+[29.002s] Invoking command in '/home/insa/eswarm/build/motion_capture_tracking': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/insa/eswarm/build/motion_capture_tracking
+[29.039s] -- Install configuration: ""
+[29.039s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/lib/motion_capture_tracking/motion_capture_tracking_node
+[29.087s] -- Set runtime path of "/home/insa/eswarm/install/motion_capture_tracking/lib/motion_capture_tracking/motion_capture_tracking_node" to "$ORIGIN"
+[29.087s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/lib/motion_capture_tracking/libNatNet.so
+[29.095s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//launch
+[29.095s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//launch/launch.py
+[29.100s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//launch/node.launch
+[29.100s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//config
+[29.101s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//config/rviz.rviz
+[29.101s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking//config/cfg.yaml
+[29.102s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/ament_index/resource_index/package_run_dependencies/motion_capture_tracking
+[29.102s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/ament_index/resource_index/parent_prefix_path/motion_capture_tracking
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/environment/ament_prefix_path.sh
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/environment/ament_prefix_path.dsv
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/environment/path.sh
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/environment/path.dsv
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.bash
+[29.103s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.sh
+[29.104s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.zsh
+[29.107s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.dsv
+[29.108s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/package.dsv
+[29.108s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/ament_index/resource_index/packages/motion_capture_tracking
+[29.108s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/cmake/motion_capture_trackingConfig.cmake
+[29.108s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/cmake/motion_capture_trackingConfig-version.cmake
+[29.108s] -- Installing: /home/insa/eswarm/install/motion_capture_tracking/share/motion_capture_tracking/package.xml
+[29.117s] Invoked command in '/home/insa/eswarm/build/motion_capture_tracking' returned '0': AMENT_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_sim:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_cpp:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_examples:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_interfaces:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_description:/home/insa/workspace/install/smarties_bringup:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble LD_LIBRARY_PATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/insa/eswarm/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/insa/eswarm/build/motion_capture_tracking

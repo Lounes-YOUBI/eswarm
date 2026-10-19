@@ -1,0 +1,6 @@
+source;share/scripts_cf/hook/pythonpath.ps1
+source;share/scripts_cf/hook/pythonpath.dsv
+source;share/scripts_cf/hook/pythonpath.sh
+source;share/scripts_cf/hook/ament_prefix_path.ps1
+source;share/scripts_cf/hook/ament_prefix_path.dsv
+source;share/scripts_cf/hook/ament_prefix_path.sh

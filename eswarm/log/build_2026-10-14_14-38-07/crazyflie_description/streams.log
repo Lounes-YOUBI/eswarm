@@ -1,0 +1,43 @@
+[0.023s] Invoking command in '/home/insa/eswarm/build/crazyflie_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake /home/insa/eswarm/src/crazyswarm2/crazyflie_description -DCMAKE_INSTALL_PREFIX=/home/insa/eswarm/install/crazyflie_description
+[0.143s] -- The C compiler identification is GNU 11.4.0
+[0.235s] -- The CXX compiler identification is GNU 11.4.0
+[0.247s] -- Detecting C compiler ABI info
+[0.345s] -- Detecting C compiler ABI info - done
+[0.359s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.360s] -- Detecting C compile features
+[0.361s] -- Detecting C compile features - done
+[0.365s] -- Detecting CXX compiler ABI info
+[0.478s] -- Detecting CXX compiler ABI info - done
+[0.491s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.492s] -- Detecting CXX compile features
+[0.493s] -- Detecting CXX compile features - done
+[0.497s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.743s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.932s] -- Configuring done
+[0.937s] -- Generating done
+[0.940s] -- Build files have been written to: /home/insa/eswarm/build/crazyflie_description
+[0.946s] Invoked command in '/home/insa/eswarm/build/crazyflie_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake /home/insa/eswarm/src/crazyswarm2/crazyflie_description -DCMAKE_INSTALL_PREFIX=/home/insa/eswarm/install/crazyflie_description
+[0.949s] Invoking command in '/home/insa/eswarm/build/crazyflie_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake --build /home/insa/eswarm/build/crazyflie_description -- -j12 -l12
+[1.004s] Invoked command in '/home/insa/eswarm/build/crazyflie_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake --build /home/insa/eswarm/build/crazyflie_description -- -j12 -l12
+[1.021s] Invoking command in '/home/insa/eswarm/build/crazyflie_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake --install /home/insa/eswarm/build/crazyflie_description
+[1.032s] -- Install configuration: ""
+[1.032s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description//urdf
+[1.033s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description//urdf/crazyflie_description.urdf
+[1.033s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description//urdf/cf2_assembly_with_props.dae
+[1.034s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description//urdf/cf2_assembly.stl
+[1.035s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/ament_index/resource_index/package_run_dependencies/crazyflie_description
+[1.036s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/ament_index/resource_index/parent_prefix_path/crazyflie_description
+[1.036s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/environment/ament_prefix_path.sh
+[1.037s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/environment/ament_prefix_path.dsv
+[1.037s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/environment/path.sh
+[1.037s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/environment/path.dsv
+[1.038s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/local_setup.bash
+[1.038s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/local_setup.sh
+[1.038s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/local_setup.zsh
+[1.038s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/local_setup.dsv
+[1.039s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/package.dsv
+[1.039s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/ament_index/resource_index/packages/crazyflie_description
+[1.039s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/cmake/crazyflie_descriptionConfig.cmake
+[1.040s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/cmake/crazyflie_descriptionConfig-version.cmake
+[1.040s] -- Installing: /home/insa/eswarm/install/crazyflie_description/share/crazyflie_description/package.xml
+[1.044s] Invoked command in '/home/insa/eswarm/build/crazyflie_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_server_py:/home/insa/Desktop/SF_CF2/ros2_ws/install/crazyflie_py:/home/insa/workspace/install/smarties:/home/insa/workspace/install/package_boutons_leds:/home/insa/workspace/install/my_package:/home/insa/workspace/install/ligne_moteurs:/home/insa/workspace/install/corrections:/home/insa/workspace/install/TD1:/opt/ros/humble /usr/bin/cmake --install /home/insa/eswarm/build/crazyflie_description

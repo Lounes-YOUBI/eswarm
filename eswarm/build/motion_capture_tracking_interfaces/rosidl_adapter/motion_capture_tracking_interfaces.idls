@@ -1,0 +1,4 @@
+/home/insa/eswarm/build/motion_capture_tracking_interfaces/rosidl_adapter/motion_capture_tracking_interfaces:msg/LatencyInfo.idl
+/home/insa/eswarm/build/motion_capture_tracking_interfaces/rosidl_adapter/motion_capture_tracking_interfaces:msg/NamedPose.idl
+/home/insa/eswarm/build/motion_capture_tracking_interfaces/rosidl_adapter/motion_capture_tracking_interfaces:msg/NamedPoseArray.idl
+/home/insa/eswarm/build/motion_capture_tracking_interfaces/rosidl_adapter/motion_capture_tracking_interfaces:msg/NamedPoseArrayV2.idl
